@@ -1,3 +1,3 @@
-<p>一个非常简单的绘画板例子，主要展示一些基本绘图工具的实现方法。该绘画板使用CoreGraphic直接操作图片像素数据，而不是论坛上常见的建立图形对象方法。</p>
+一个非常简单的绘画板例子，主要展示一些基本绘图工具的实现方法。该绘画板使用CoreGraphic直接操作图片像素数据，而不是论坛上常见的建立图形对象方法。
 
-<p><img src="./snapshot.png" /></p>
+[snapshot](https://github.com/keefo/BCPainter/blob/master/snapshot.png)
